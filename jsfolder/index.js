@@ -1,5 +1,5 @@
 
-    const calcy = () =>{
+   function calcy(){
     let maths = document.getElementById('maths').value;
     let eng = document.getElementById('eng').value;
     let phy = document.getElementById('phy').value;
